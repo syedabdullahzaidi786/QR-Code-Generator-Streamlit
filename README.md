@@ -2,6 +2,9 @@
 
 A powerful and user-friendly QR Code Generator application built with Streamlit. This application allows you to generate QR codes for various types of content including text, URLs, WiFi networks, and contact information.
 
+## Live Demo
+Try the application online: [QR Code Generator](https://saz-qr-code-generator.streamlit.app/)
+
 ## Features
 
 - Generate QR codes for:
@@ -80,4 +83,4 @@ python -m streamlit run main.py
 - Python 3.7+
 - streamlit
 - qrcode
-- pillow "# QR-Code-Generator-Streamlit" 
+- pillow
